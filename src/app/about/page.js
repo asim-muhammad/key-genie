@@ -186,7 +186,7 @@ export default function About() {
                 
                 <Button variant="outline" asChild className="w-full sm:w-auto">
                   <a 
-                    href="https://github.com/asimdevprov/key-genie" 
+                    href="https://github.com/asim-muhammad/key-genie" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center justify-center gap-2"
