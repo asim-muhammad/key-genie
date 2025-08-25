@@ -41,7 +41,7 @@ A modern, client-side password generator built with Next.js 15 and React 19. Cre
 1. **Clone the repository**
 
 ```sh
-   git clone https://github.com/asimdevprov/key-genie.git
+   git clone https://github.com/asim-muhammad/key-genie.git
    cd key-genie
 ```
 
